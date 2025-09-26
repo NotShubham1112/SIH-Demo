@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env*/
+.venv/
+
+# Data, downloads, and outputs
+uploads/
+downloads/
+outputs/
+*.tif
+*.kmz
+*.zip
+*.csv
+*.png
+*.jpg
+*.jpeg
+
+# Model artifacts
+models/*.pkl
+*.onnx
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Flask/instance/config
+instance/
+*.log
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and temp
+*.tmp
+*.temp
+~$*
+
+# Ignore Earthdata creds if present
+*.netrc
