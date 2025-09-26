@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+    text-align: center;
+    padding: 30px;
+}
+h1 {
+    color: #2c3e50;
+}
+form {
+    margin-top: 20px;
+}
+input[type="submit"] {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: #27ae60;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+input[type="submit"]:hover {
+    background: #219150;
+}
