@@ -250,10 +250,3 @@ A demo web app that simulates **rockfall risk detection** in open-pit mines usin
 
 👨‍💻 Developed for **SIH 2025 Prototype Demo**
 
-```
-
----
-
-✅ Now you can **copy-paste these files** into your GitHub repo.  
-Do you want me to also prepare a **ready ZIP file** with this structure so you can just upload it directly to GitHub?
-```
