@@ -1,5 +1,3 @@
-Perfect 👌 Let’s make a **ready-to-publish GitHub repo structure** for your SIH demo.
-You’ll just **copy-paste** these files into your repo, push, and it’s ready.
 
 ---
 
