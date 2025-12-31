@@ -1,4 +1,24 @@
+# 🪨 SIH-Demo – AI Rockfall Risk Visualization
 
+A demo web app that simulates **rockfall risk detection** in open-pit mines using **image analysis + thermal heatmaps**.
+
+---
+
+## 🚀 Features
+- Upload any mine image (JPG/PNG).
+- Generates:
+  - `heatmap.png` → thermal risk zones
+  - `overlay.png` → heatmap over original mine
+- Simple **Flask web app** with HTML interface.
+
+---
+
+## ⚡ Installation & Usage
+
+1. Clone repo:
+   ```bash
+   git clone https://github.com/yourusername/SIH-Demo.git
+   cd SIH-Demo
 ---
 
 # 📂 Repo Structure
@@ -176,33 +196,6 @@ scipy
 ```
 
 ---
-
-# 📄 README.md
-
-````markdown
-# 🪨 SIH-Demo – AI Rockfall Risk Visualization
-
-A demo web app that simulates **rockfall risk detection** in open-pit mines using **image analysis + thermal heatmaps**.
-
----
-
-## 🚀 Features
-- Upload any mine image (JPG/PNG).
-- Generates:
-  - `heatmap.png` → thermal risk zones
-  - `overlay.png` → heatmap over original mine
-- Simple **Flask web app** with HTML interface.
-
----
-
-## ⚡ Installation & Usage
-
-1. Clone repo:
-   ```bash
-   git clone https://github.com/yourusername/SIH-Demo.git
-   cd SIH-Demo
-````
-
 2. Setup environment:
 
    ```bash
