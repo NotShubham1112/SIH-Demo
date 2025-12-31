@@ -1,4 +1,4 @@
-# 🪨 SIH-Demo – AI Rockfall Risk Visualization
+# 🪨 SIH-Demo –  Rockfall Risk Visualization
 
 A demo web app that simulates **rockfall risk detection** in open-pit mines using **image analysis + thermal heatmaps**.
 
